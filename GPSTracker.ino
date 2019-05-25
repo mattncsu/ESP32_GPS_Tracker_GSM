@@ -59,7 +59,7 @@ char payload[512]; //message to publish
 
 // Server details
 const char server[] = "demo.thingsboard.io"; //access token in middle, 104.196.24.70=demo.thingsboard.io
-const char resource[]= "/api/v1/lKsoShnP2f8Fcgr3CRhX/telemetry";
+const char resource[]= "/api/v1/xxxx/telemetry";
 const int  port = 80;
 const String contentType="application/json";
 
